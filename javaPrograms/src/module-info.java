@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author askura
+ *
+ */
+module javaPrograms {
+}
